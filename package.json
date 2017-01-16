@@ -9,6 +9,14 @@
   "keywords": ["telegram"],
   "author": "Ravshan Samandarov",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ravshansbox/telegram-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ravshansbox/telegram-node/issues"
+  },
+  "homepage": "https://github.com/ravshansbox/telegram-node",
   "dependencies": {
     "get-log": "latest",
     "telegram-mt-node": "latest",
