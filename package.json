@@ -1,0 +1,17 @@
+{
+  "name": "telegram-node",
+  "version": "0.0.1",
+  "description": "Telegram API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["telegram"],
+  "author": "Ravshan Samandarov",
+  "license": "MIT",
+  "dependencies": {
+    "get-log": "latest",
+    "telegram-mt-node": "latest",
+    "telegram-tl-node": "latest"
+  }
+}
